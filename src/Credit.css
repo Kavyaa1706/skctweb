@@ -1,0 +1,18 @@
+.dem{
+    background-color:#ffffff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left:0;
+    width : auto;
+    height: auto;
+}
+.logo1{
+    height:150px;
+    width:1450px;
+}
+.credit{
+    height :575px;
+    width :900px;
+}

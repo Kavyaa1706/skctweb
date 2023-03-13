@@ -1,0 +1,115 @@
+.backy{
+    position: absolute;
+    background-color: #000;
+    height:745px;
+    width: 1536px;
+}
+.picture{
+    position: absolute;
+    height: 330px;
+    width: 270px;
+    left: 4%;
+    top:15%;
+    border-radius: 5%;
+}
+.arw{
+    height: 40px;
+    width: 40px;
+    margin-top:2%;
+    margin-left: 2%;
+
+    
+}
+
+    .word{
+        color: rgb(252, 250, 250);
+        margin-left: -20%;
+    }
+    #word{
+        position: absolute;
+        margin-top:-3%;
+        left:5.5%;
+        color: rgb(255, 250, 250);
+        font-size: 2rem;
+        text-decoration: underline;
+    }
+    .picture1{
+        position: absolute;
+        height: 230px;
+        width: 330px;
+        left: 23.4%;
+        top: 3%;
+        border-radius: 5%;
+    }
+    .picture2{
+        position: absolute;
+        height: 230px;
+        width: 330px;
+        left: 23.4%;
+        top: 35.5%;
+        border-radius: 5%;
+    }
+    .picture3{
+        position: absolute;
+        height: 255px;
+        width: 270px;
+        left: 4%;
+        top: 61.5%;
+        border-radius: 5%;
+    }
+    .picture4{
+        position: absolute;
+        height: 210px;
+        width: 330px;
+        left: 23.4%;
+        top: 68%;
+        border-radius: 5%;
+    }
+    .picture5{
+        position: absolute;
+        height: 330px;
+        width: 270px;
+        left: 47%;
+        top: 15%;
+        border-radius: 5%;
+    }
+    .picture6{
+        position: absolute;
+        height: 255px;
+        width: 280px;
+        left: 47%;
+        top: 61.5%;
+        border-radius: 5%;
+    }
+    .picture7{
+        position: absolute;
+        height: 340px;
+        width: 285px;
+        left: 66.5%;
+        top: 4%;
+        border-radius: 5%;
+    }
+    .picture8{
+        position: absolute;
+        height: 320px;
+        width: 285px;
+        left: 66.5%;
+        top: 53%;
+        border-radius: 5%;
+    }
+.picture9{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    border-radius: 5%;
+    margin-left: 86%;
+    margin-top: 2.5%;
+    }
+.picture10{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    border-radius: 5%;
+    margin-left: 86%;
+    margin-top:23%;
+    }

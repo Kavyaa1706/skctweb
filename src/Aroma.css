@@ -1,0 +1,33 @@
+.rrr{
+    height: 741.5px;
+    width: 1535px;
+}
+.rrr1{
+    background-color: black;
+}
+.rrr2{
+    position: absolute;
+    margin-top: -30%;
+    margin-left: 45%;
+    height: 300px;
+    width: 750px;
+}
+.rrr3{
+    position: absolute;
+    color:white;
+    margin-top: -25%;
+    margin-left: 52%;
+}
+.rrr4{
+    position: absolute;
+    color:white;
+    margin-top: -29%;
+    margin-left: 61.5%;
+    text-decoration: underline;
+}
+.rrr5{
+    position: absolute;
+    height: 30px;
+    margin-top: -46%;
+    margin-left: 2%;
+}

@@ -1,0 +1,226 @@
+.home{
+  background-position: center;
+  position:absolute;
+  background-repeat: no-repeat;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  width:auto;
+  height:auto;
+  background-color: black;
+}
+.skct{
+  position: absolute;
+    transform:(-50%,-50%);
+    height: 745px;
+    width:1100px;
+    top:0%;
+    right:15%;
+}
+.skct1{
+  position:absolute;
+  height: 140px;
+  width:1100px;
+  transform:(-50%,-50%);
+  top:0%;
+  right:16%;
+}
+.code{
+  position: absolute;
+    transform:(-50%,-50%) ;
+    color:#2C5C95;
+    margin-top: 8.5%;
+    margin-left: 39%;
+    font-size: 2rem;
+}
+.rankbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:35%;
+  left:22%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.rankbtn:hover{
+  background-color: cornflowerblue;
+}
+.acabtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:35%;
+  left:49%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.acabtn:hover{
+  background-color: cornflowerblue;
+}
+.addbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:35%;
+  left:75%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.addbtn:hover{
+  background-color: cornflowerblue;
+}
+.placebtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:55%;
+  left:22%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+ .placebtn:hover{
+  background-color: cornflowerblue;
+}
+.gallbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:55%;
+  left:49%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.gallbtn:hover{
+  background-color: cornflowerblue;
+}
+.rshbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:55%;
+  left:75%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.rshbtn:hover{
+  background-color: cornflowerblue;
+}
+.exambtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:75%;
+  left:22%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.exambtn:hover{
+  background-color: cornflowerblue;
+}
+.abtbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:75%;
+  left:49%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.abtbtn:hover{
+  background-color: cornflowerblue;
+}
+.ctbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:75%;
+  left:75%;
+  background-color: #A2A9E8;
+  border:none;
+  height:70px;
+  width:180px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.ctbtn:hover{
+  background-color: cornflowerblue;
+}
+.stlgnbtn{
+  position:absolute;
+  display:inline-block;
+  transform:translate(-50%,-50%);
+  top:95%;
+  left:49.5%;
+  background-color: #E88D23;
+  border:none;
+  height:50px;
+  width:170px;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.stlgnbtn:hover{
+  background-color: #cf934faa;
+}

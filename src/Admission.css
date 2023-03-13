@@ -1,0 +1,82 @@
+.die{
+    position: absolute;
+    transform:(-50%,-50%);
+    background-color: #D0BDF0 ;
+    background-repeat: no-repeat;
+    height: 2150px;
+    width:1519px;
+}
+.die1{
+    background-color: rgba(137, 57, 212, 0.811);
+    margin-top: 0%;
+    height:60px;
+}
+.die2{
+    background-color: #C9BC46;
+    width:415px;
+    border-radius: 10px;
+    height:40px;
+    margin-left: 2%;
+    margin-top: 2%;
+    text-align: center;
+}
+.die3{
+    position: absolute;
+    height:30px;
+    margin-left: 6%;
+}
+/*.die4{
+    margin-top: 1.5%;
+    margin-left: 8%;
+}*/
+.die5{
+    margin-top: 1.5%;
+    margin-left: 10%;
+}
+.die4{
+    background-color: rgba(137, 57, 212, 0.811);
+    margin-top: 3%;
+    height:60px;
+}
+.die6{
+    font-size: 1.5rem;
+    margin-top: -5.3%;
+    margin-left: 12%;
+}
+.die8{
+    font-size: 1.5rem;
+    margin-top: 2%;
+    margin-left: 12%;
+}
+.die7{
+    font-size:4rem;
+    margin-left:9% ;
+    margin-top: -2%;
+}
+.die9{
+    font-size:4rem;
+    margin-left:9% ;
+    margin-top: -6.7%;
+}
+.die10{
+    font-size: 1.5rem;
+    margin-top: -1.5%;
+    margin-left: 12%;
+    color:black;
+}
+.die11{
+    font-size: 1.6rem;
+    margin-left: 3%;
+    text-decoration: underline;
+}
+.die12{
+    position: absolute;
+    height: 35px;
+    margin-left: 8%;
+}
+.die13{
+    margin-left: 12%;
+}
+.bar70{
+   margin-top: 3%;
+}

@@ -1,0 +1,76 @@
+.hh1{
+	background-color: #6A899A;
+	background-position: bottom;
+	margin-top:0.5%;
+}
+.hbtn{
+	height: 60px;
+	background-color: #6A899A;
+	width:100px;
+	font-size: 1.5rem;
+	margin-left: 12%;
+	cursor:pointer;
+	border: #6A899A;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.abbtn{
+	height: 60px;
+	background-color: #6A899A;
+	width:100px;
+	font-size: 1.5rem;
+	margin-left:5%;
+	border: #6A899A;
+	cursor:pointer;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.ctnbtn{
+	height: 60px;
+	background-color: #6A899A;
+	width:120px;
+	font-size: 1.5rem;
+	border:#6A899A;
+	margin-left:5%;
+	cursor:pointer;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+	
+}
+.dee1{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+	margin-left: 48%;
+	margin-top: -3%;
+	font-size: 1.6rem;
+}
+.goo{
+	margin-left: 63%;
+	margin-top: -3%;
+	cursor: pointer;
+}
+.goo1{
+	margin-left: 70%;
+	margin-top: -2.5%;
+	cursor: pointer;
+}
+.goo2{
+	margin-left:77%;
+	margin-top: -2.5%;
+	cursor: pointer;
+}
+.goo3{
+	margin-left: 84%;
+	margin-top: -2.5%;
+	cursor: pointer;
+}
+.goo4{
+	margin-left: 90%;
+	margin-top: -2.5%;
+	cursor: pointer;
+}
+.kae{
+	position: absolute;
+	height:50px;
+	width:50px;
+	margin-top: -3.75%;
+	margin-left: 4%;
+}

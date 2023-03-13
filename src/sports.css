@@ -1,0 +1,41 @@
+.page8{
+    background-color: black;
+}
+.Sport{
+    height: 741.5px;
+    width: 1535px;
+}
+.imagee{
+    height: 270px;
+    width: 530px;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    opacity: 0.9;
+}
+.imagei{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 3%;
+    left: 4%;
+}
+.one7{
+    color: white;
+    margin-left: -20%;
+}
+#one7{
+    position: absolute;
+    top: 55%;
+    left: 54%;
+    color: white;
+    font-size: 1.4rem;
+    text-decoration: underline;
+}
+#two7{
+    position: absolute;
+    top: 62%;
+    left: 45%;
+    color: white;
+    font-size: 1.3rem;
+}

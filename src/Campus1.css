@@ -1,0 +1,295 @@
+.tick{
+    background-color: black;
+    height: 745px;
+    width:1536px;
+}
+.tact{
+    position: absolute;
+    width:1536px;
+    height:745px;
+    opacity: 0.2;
+}
+.tact1{
+    position:absolute;
+    margin-left: -5%;
+    width:450px;
+    height: 680px;
+}
+.tact2{
+    position: absolute;
+    width:1175px;
+    margin-left: 22%;
+}
+.life{
+    position: absolute;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    margin-left: 1.2%;
+    text-decoration: underline;
+}
+.dot{
+    position: absolute;
+    color:white;
+    margin-top: 5.5%;
+    font-size: 4rem;
+    margin-left: 1%;
+}
+.arobtn{
+    position: absolute;
+    margin-top: 8.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.arobtn:hover{
+    background-color:dimgrey;
+}
+.medbtn{
+    position: absolute;
+    margin-top: 12.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.medbtn:hover{
+    background-color:dimgrey;
+    }
+.dot1{
+        position: absolute;
+        color:white;
+        margin-top: 9.5%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.sembtn{
+    position: absolute;
+    margin-top: 16%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.sembtn:hover{
+    background-color:dimgrey;
+    }
+.dot2{
+        position: absolute;
+        color:white;
+        margin-top: 13%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.audbtn{
+    position: absolute;
+    margin-top: 19.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.audbtn:hover{
+    background-color:dimgrey;
+    }
+.dot3{
+        position: absolute;
+        color:white;
+        margin-top: 16.5%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.yobtn{
+    position: absolute;
+    margin-top: 23%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.yobtn:hover{
+    background-color:dimgrey;
+    }
+.dot4{
+        position: absolute;
+        color:white;
+        margin-top: 20.2%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.transbtn{
+    position: absolute;
+    margin-top: 26.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.transbtn:hover{
+    background-color:dimgrey;
+    }
+.dot5{
+        position: absolute;
+        color:white;
+        margin-top: 23.75%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.libbtn{
+    position: absolute;
+    margin-top: 30%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.libbtn:hover{
+    background-color:dimgrey;
+    }
+.dot6{
+        position: absolute;
+        color:white;
+        margin-top: 27.2%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.sptbtn{
+    position: absolute;
+    margin-top: 33.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.sptbtn:hover{
+    background-color:dimgrey;
+    }
+.dot7{
+        position: absolute;
+        color:white;
+        margin-top: 30.55%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.smtbtn{
+    position: absolute;
+    margin-top: 37%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.smtbtn:hover{
+    background-color:dimgrey;
+    }
+.dot8{
+        position: absolute;
+        color:white;
+        margin-top: 34%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+
+.gallebtn{
+    position: absolute;
+    margin-top: 40.5%;
+    width: 275px;
+    height:40px;
+    cursor: pointer;
+    font-size: 1.7rem;
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: black;
+    color:white;
+    margin-left:3% ;
+}
+.gallebtn:hover{
+    background-color:dimgrey;
+    }
+.dot9{
+        position: absolute;
+        color:white;
+        margin-top: 37.55%;
+        font-size: 4rem;
+        margin-left: 1%;
+    }
+.tab{
+    position: absolute;
+    color: rgb(219, 216, 216);
+    margin-top: 14%;
+    margin-left: 34%;
+    font-size: 1.5rem;
+}
+.dot10{
+    position: absolute;
+    color:white;
+    margin-top: 9.5%;
+    font-size: 5.5rem;
+    margin-left: 30%;
+}
+.bar7{
+    position: absolute;
+    width:1536px;
+    margin-top: 44%;
+    opacity:0.8;
+}
+.tab1{
+    position: absolute;
+    color: white;
+    margin-top: 30%;
+    margin-left: 34%;
+    font-size: 1.5rem;
+}
+.dot11{
+    position: absolute;
+    color:white;
+    margin-top: 25.5%;
+    font-size: 5.5rem;
+    margin-left: 30%;
+}

@@ -1,0 +1,330 @@
+.bel{
+    background-color: #000;
+    height:1585px;
+}
+.bel1{
+    cursor: pointer;
+    height: 80px;
+    width:800px;
+    background-color: black;
+    color:white;
+    font-size: 2.8rem;
+}
+.bel2{
+    position: absolute;
+    cursor: pointer;
+    height: 80px;
+    width:720px;
+    background-color: black;
+    color:white;
+    font-size: 2.8rem;
+    margin-left: 52.5%;
+    margin-top: -5.25%;
+    border: white;
+}
+.bel3{
+    position: absolute;
+    color: white;
+    font-size: 5rem;
+    margin-left:50%;
+    margin-top: -6.9%;
+}
+.bel4{
+    margin-top: 0%;
+    width:1518px;
+    height:1500px;
+    opacity: 0.3;
+}
+.bel5{
+    position: absolute;
+    margin-top: -93%;
+    width:1519px;
+    height: 1250px;
+    opacity: 0.7;
+}
+.bel6{
+    position: absolute;
+    height: 25px;
+    margin-top: -90%;
+    margin-left: 14%;
+}
+
+.bel12{
+    position: absolute;
+    height: 25px;
+    margin-top: -80%;
+    margin-left: 14%;
+}
+.bel22{
+    position: absolute;
+    height: 25px;
+    margin-top: -63.7%;
+    margin-left: 14%;
+}
+.bel26{
+    position: absolute;
+    height: 25px;
+    margin-top: -55.2%;
+    margin-left: 14%;
+}
+.bel7{
+    position: absolute;
+    margin-top: -90.3%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel13{
+    position: absolute;
+    margin-top: -80.3%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel21{
+    position: absolute;
+    margin-top: -64%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel27{
+    position: absolute;
+    margin-top: -55.5%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel8{
+    position: absolute;
+    margin-top: -87%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem;
+}
+.bel23{
+    position: absolute;
+    margin-top: -61%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem;
+}
+
+.bel9{
+    position: absolute;
+    margin-top: -90.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel11{
+    position: absolute;
+    margin-top: -87.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel14{
+    position: absolute;
+    margin-top: -80.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel15{                 
+    position: absolute;
+    margin-top: -78.3%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel17{                 
+    position: absolute;
+    margin-top: -76.4%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel18{                 
+    position: absolute;
+    margin-top: -74.7%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel19{                 
+    position: absolute;
+    margin-top: -72.7%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel20{                 
+    position: absolute;
+    margin-top: -70.7%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel24{                 
+    position: absolute;
+    margin-top: -64.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel25{                 
+    position: absolute;
+    margin-top: -62.3%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel10{
+    position: absolute;
+    margin-top: -84%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem;
+}
+.bel16{
+    position: absolute;
+    color:white;
+    margin-top: -77%;
+    margin-left: 25%;
+    font-size: 1.3rem;
+}
+.bel28{
+    position: absolute;
+    margin-top: -52.5%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem;
+}
+.bel29{
+    position: absolute;
+    margin-top: -55.8%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel30{
+    position: absolute;
+    margin-top: -53.8%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel31{
+    position: absolute;
+    margin-top: -47%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel32{
+    position: absolute;
+    height: 25px;
+    margin-top: -46.7%;
+    margin-left: 14%;
+}
+.bel33{
+    position: absolute;
+    margin-top: -44%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem; 
+}
+.bel34{
+    position: absolute;
+    margin-top: -47.4%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel35{
+    position: absolute;
+    margin-top: -40.5%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel36{
+    position: absolute;
+    height: 25px;
+    margin-top: -40%;
+    margin-left: 14%;
+}
+.bel37{
+    position: absolute;
+    margin-top: -37%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem; 
+}
+.bel38{
+    position: absolute;
+    margin-top: -40.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel39{
+    position: absolute;
+    margin-top: -38.2%;
+    color:white;
+    margin-left: 23%;
+    font-size: 4rem;
+}
+.bel40{
+    position: absolute;
+    margin-top: -31.5%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel43{
+    position: absolute;
+    margin-top: -24.5%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel44{
+    position: absolute;
+    margin-top: -20%;
+    color:white;
+    margin-left: 16%;
+    text-decoration: underline;
+}
+.bel41{
+    position: absolute;
+    height: 25px;
+    margin-top: -31.1%;
+    margin-left: 14%; 
+}
+.bel45{
+    position: absolute;
+    height: 25px;
+    margin-top: -24%;
+    margin-left: 14%; 
+}
+.bel46{
+    position: absolute;
+    height: 25px;
+    margin-top: -19.6%;
+    margin-left: 14%; 
+}
+.bel42{
+    position: absolute;
+    margin-top: -28%;
+    color:white;
+    margin-left: 25%;
+    font-size: 1.3rem; 
+}
+.bel47{
+    position: absolute;
+    height:35px;
+    margin-top: -3.5%;
+    margin-left:2.5%;
+}

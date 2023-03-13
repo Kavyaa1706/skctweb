@@ -1,0 +1,83 @@
+.dem1{
+    height: 745px;
+    width: 1536px;
+    position: absolute;
+    opacity: 0.9;
+}
+.photo{
+    background-color: black;
+    height:744px;
+    width:1535px;
+}
+.dem2{
+    height: 450px;
+    width: 600px;
+    z-index: 10;
+    position: relative;
+    left: 50%;
+    bottom: -150px;
+    opacity: 0.8;
+}
+.dem3{
+    height: 115px;
+    width: 115px;
+    z-index: 10;
+    position: relative;
+    left: 66%;
+    top: -250px;
+}
+.dem4{
+    height: 105px;
+    width: 105px;
+    z-index: 10;
+    position: relative;
+    left: 54%;
+    top: -430px;
+}
+.imageu{
+    height: 40px;
+    width:40px;
+    position: absolute;
+    top: 3%;
+    left: 3%;
+}
+
+.form1{
+    position: absolute;
+    top:45%;
+    margin-left: 40%;
+    z-index: 10;
+}
+.register{
+    margin-left:97.5%;
+    margin-top: 10%;
+}
+input[type=text],input[type=exampassword],textarea{
+        height: 20px;
+        width:300px;
+        padding:10px;
+     
+        margin-top: 10%;
+        margin-left: -280.95%;
+        display:inline-block;
+        border:none;
+        background : linear-gradient() ;
+        opacity: 0.6;
+        border-radius: 20px;
+}
+.feesbtn{
+    cursor:pointer;
+    position: absolute;
+    height:40px;
+    width:150px;
+    margin-left: 64.5%;
+    margin-top: -14%;
+    z-index: 10;
+    border-radius: 20px;
+    background-color: #FFD80E;
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.feesbtn:hover{
+    background-color: #92864c;
+}

@@ -1,0 +1,186 @@
+.yel{
+    background-color: #000;
+    height:1586px;
+}
+.yel1{
+    cursor: pointer;
+    height: 80px;
+    width:800px;
+    background-color: black;
+    color:white;
+    font-size: 2.8rem;
+}
+.yel2{
+    position: absolute;
+    cursor: pointer;
+    height: 80px;
+    width:720px;
+    background-color: black;
+    color:white;
+    font-size: 2.8rem;
+    margin-left: 52.5%;
+    margin-top: -5.25%;
+    border: white;
+}
+.yel3{
+    position: absolute;
+    color: white;
+    font-size: 5rem;
+    margin-left:50%;
+    margin-top: -6.9%;
+}
+.yel6{
+    position: absolute;
+    margin-top: -93.5%;
+    width:1519px;
+    height: 750px;
+    opacity:0.7;
+}
+.yel5{
+    margin-top: 0%;
+    width:1518px;
+    height:1500px;
+    opacity: 0.3;
+}
+.yel7{
+    position: absolute;
+    height: 40px;
+    margin-top: -90%;
+    margin-left: 15%;
+}
+.yel8{
+    position: absolute;
+    margin-top: -89.7%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel9{
+    position: absolute;
+    height: 40px;
+    margin-top: -86%;
+    margin-left: 15%;
+}
+.yel10{
+    position: absolute;
+    height: 40px;
+    margin-top: -82%;
+    margin-left: 15%;
+}
+.yel11{
+    position: absolute;
+    height: 40px;
+    margin-top: -78%;
+    margin-left: 15%;
+}
+.yel12{
+    position: absolute;
+    height: 40px;
+    margin-top: -74%;
+    margin-left: 15%;
+}
+.yel13{
+    position: absolute;
+    height: 40px;
+    margin-top: -70%;
+    margin-left: 15%;
+}
+.yel14{
+    position: absolute;
+    height: 40px;
+    margin-top: -66%;
+    margin-left: 15%;
+}
+.yel15{
+    position: absolute;
+    height: 40px;
+    margin-top: -62%;
+    margin-left: 15%;
+}
+.yel16{
+    position: absolute;
+    height: 40px;
+    margin-top: -58%;
+    margin-left: 15%;
+}
+.yel17{
+    position: absolute;
+    height: 40px;
+    margin-top: -54%;
+    margin-left: 15%;
+}
+.yel18{
+    position: absolute;
+    height: 40px;
+    margin-top: -50%;
+    margin-left: 15%;
+}
+.yel19{
+    position: absolute;
+    height: 40px;
+    margin-top: -46%;
+    margin-left: 15%;
+}
+.yel20{
+    position: absolute;
+    margin-top: -85.5%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel21{
+    position: absolute;
+    margin-top: -81.5%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel22{
+    position: absolute;
+    margin-top: -77.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel23{
+    position: absolute;
+    margin-top: -73.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel24{
+    position: absolute;
+    margin-top: -69.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel25{
+    position: absolute;
+    margin-top: -65.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel26{
+    position: absolute;
+    margin-top: -61.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel27{
+    position: absolute;
+    margin-top: -57.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}
+.yel28{
+    position: absolute;
+    margin-top: -53.4%;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 18.5%;
+}

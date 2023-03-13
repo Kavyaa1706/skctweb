@@ -1,0 +1,61 @@
+.gel{
+    position:absolute;
+    background-color: #EDDFDF;
+    height:744px;
+    width:1535px;
+}
+.gel1{
+    position: absolute;
+    height:120px;
+    width:1535px;
+}
+.gel2{
+    position: absolute;
+    color: white;
+    margin-top: 10%;
+    margin-left: 35%;
+    background-color: #810000;
+    height: 55px;
+    width:500px;
+    text-align: center;
+    border-radius: 10px;
+}
+.gel3{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 17%;
+    margin-left:42% ;
+    background-color: #302453;
+    color:white;
+    text-align: center;
+    width:275px;
+    height: 65px;
+    border-radius: 15px;
+}
+.gel4{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 24%;
+    margin-left:42% ;
+    background-color: #302453;
+    color:white;
+    height: 60px;
+    text-align: center;
+    width:275px;
+    border-radius: 15px;
+}
+.gel5{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 30.5%;
+    margin-left:42% ;
+    background-color: #302453;
+    color:white;
+    height: 60px;
+    text-align: center;
+    width:275px;
+    border-radius: 15px;
+}
+.gel6{
+    margin-top: 685px;
+}

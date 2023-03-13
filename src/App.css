@@ -1,0 +1,56 @@
+.app {
+  background-image: url("./gate.png");
+  background-position: center;
+  position:absolute;
+  background-repeat: no-repeat;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  width:auto;
+  height:auto;
+  color:black;
+  background-color: black;
+}
+.app h1{
+  position: absolute;
+  top:43%;
+  left:45%;
+  transform:(-50%,-50%);
+  color:white;
+  font-size: 4rem;
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.app h2{
+  position: absolute;
+  top:38%;
+  left:36%;
+  transform:(-50%,-50%);
+  color:white;
+  font-size: 2rem;
+}
+.homebtn{
+  background-color:rgba(120, 159, 217, 0.695);
+    width: 120px;
+    height: 35px;
+    position:absolute;
+    bottom: 3%;
+    right:15%;
+    transform:translate(-50%,-50%);
+    color: black;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius:50px;
+    text-align: center;
+    transition: ease-out;
+    transition-delay: 3ms;
+}
+.homebtn:hover{
+  background-color: rgb(84, 84, 210);
+}
+a{
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,326 @@
+.sam{
+    position: absolute;
+    transform:(-50%,-50%);
+    background-color: #D0BDF0 ;
+    background-repeat: no-repeat;
+    height: 1050px;
+    width:1519px;
+}
+.off{
+    text-decoration: underline;
+    font-size: 2.5rem;
+    margin-left: 5%;
+}
+.pics{
+    margin-left: 1%;
+    margin-top:-41%;
+    height: 50px;
+    width:50px;
+    position: absolute;
+}
+.kav{
+    height:200px;
+    width:200px;
+    margin-left: 43%;
+}
+.zee{
+    position: absolute;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 45.5%;
+    margin-top: -9%;
+}
+.zee1{
+    position: absolute;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 46%;
+    margin-top: -6%;
+}
+.kav1{
+    height:200px;
+    width:200px;
+    margin-left: 35%;
+    margin-top:-5%;
+}
+.zee2{
+    position: absolute;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 37.5%;
+    margin-top: -8.5%;
+}
+.zee3{
+    position: absolute;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 38.5%;
+    margin-top: -6.5%;
+}
+.kav20{
+    position: absolute;
+    height:200px;
+    width:200px;
+    margin-left: 40%;
+    margin-top: -1590%;
+}
+.dell1{
+    position: relative;
+    z-index: 10;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 55%;
+    margin-top: -8.5%;
+}
+.dell2{
+    position: relative;
+    z-index: 10;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 55%;
+    margin-top: 2%;
+}
+.kav3{
+    position: absolute;
+    height:200px;
+    width:200px;
+    margin-left: 43%;
+    margin-top: -2%;
+}
+.leno{
+    z-index: 10;
+    position: relative;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 45.5%;
+    margin-top: 4%;
+}
+.leno1{
+    z-index: 10;
+    position: relative;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 46.5%;
+    margin-top: 1.5%;
+}
+.kav4{
+    position: absolute;
+    height:200px;
+    width:200px;
+    margin-left: 59%;
+    margin-top: -9%;
+}
+.real{
+    z-index: 10;
+    position: relative;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 63%;
+    margin-top: -5%;
+}
+.real2{
+    z-index: 10;
+    position: relative;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 62%;
+    margin-top: 1.5%;
+}
+.kav5{
+    height:200px;
+    width:200px;
+    margin-left: 27%;
+    margin-top:-9.5%;
+}
+.me{
+    position: absolute;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 29.5%;
+    margin-top: -8.5%; 
+}
+.me1{
+    position: absolute;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 31%;
+    margin-top: -6.5%;
+}
+.kav6{
+    height:200px;
+    width:200px;
+    margin-left: 35%;
+    margin-top:-5%;
+}
+.me2{
+    position: absolute;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 37.5%;
+    margin-top: -8.5%;
+}
+.me3{
+    position: absolute;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 38%;
+    margin-top: -6.5%;
+}
+.kav7{
+    position: absolute;
+    height:200px;
+    width:200px;
+    margin-left: 51%;
+    margin-top: -13%;
+}
+.me4{
+    position: relative;
+    z-index: 10;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 54%;
+    margin-top: -8.5%;
+}
+.me5{
+    position: relative;
+    z-index: 10;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 54%;
+    margin-top: 1.5%;
+}
+.kav8{
+    position: absolute;
+    height:200px;
+    width:200px;
+    margin-left: 43%;
+    margin-top: -1.5%;
+}
+.me6{
+    position: absolute;
+    font-size: 0.8rem;
+    color: azure;
+    margin-left: 46%;
+    margin-top: 3%;
+}
+.me7{
+    position: absolute;
+    font-size: 0.9rem;
+    color: azure;
+    margin-left: 46%;
+    margin-top:5.5%;
+}
+.me10{
+    position:absolute;
+    margin-top: 15%;
+    width:1518px;
+}
+.me11{
+    position:absolute;
+    margin-top: 30%;
+    margin-left: 10%;
+    opacity:0.85;
+    height: 320px;
+    width: 510px;
+}
+.me12{
+    position: absolute;
+    color: white;
+    margin-top: 32%;
+    font-size: 1.6rem;
+}
+.me13{
+    position: absolute;
+    color:white;
+    margin-top:40%;
+    font-size: 1.6rem;
+    margin-left: 16%;
+}
+.sem1btn{
+    position: absolute;
+    cursor: pointer;
+    width:170px;
+    height:40px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-top: 47%;
+    margin-left: 21%;
+}
+.sem1btn:hover{
+    background-color: rgba(255, 255, 0, 0.433) ;
+  }
+.me14{
+    position: absolute;
+    font-size: 5rem;
+    color: cadetblue;
+    margin-top: 36%;
+    margin-left: 14%;
+}
+.eae{
+    margin-top: -8%;
+}
+.eae1{
+    margin-left: 42%;
+}
+.sem2btn{
+    position: absolute;
+    cursor: pointer;
+    width:140px;
+    height:40px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-top: 47%;
+    margin-left: 70%;
+
+}
+.sem2btn:hover{
+    background-color: rgba(255, 255, 0, 0.433) ;
+  }
+.sem3btn{
+    position: absolute;
+    cursor: pointer;
+    width:140px;
+    height:40px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-top: 47%;
+    margin-left: 16%;
+
+}
+.sem3btn:hover{
+    background-color: rgba(255, 255, 0, 0.433) ;
+  }
+.eae3{
+    margin-top: 27%;
+}
+.me16{
+    position: absolute;
+    color:white;
+    margin-top:37%;
+    font-size: 1.6rem;
+    margin-left: 16%;
+}
+.me17{
+    position: absolute;
+    font-size: 5rem;
+    color: cadetblue;
+    margin-top: 33%;
+    margin-left: 14%;
+}
+.sem4btn{
+    position: absolute;
+    cursor: pointer;
+    width:170px;
+    height:40px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-top: 45%;
+    margin-left: 21%;
+}
+.sem4btn:hover{
+    background-color: rgba(255, 255, 0, 0.433) ;
+  }
